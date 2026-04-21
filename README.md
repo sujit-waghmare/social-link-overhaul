@@ -6,7 +6,7 @@ Turn this → `[Waghmare](https://github.com/sujit-waghmare)`
 
 Into this → a branded badge with logo, color, and style. Automatically. No plugins. No JavaScript. Pure CSS.
 
-![Dark/Light Preview](assets/Social-Link-Overhaul.png)
+![Preview](assets/Social-Link-Overhaul.png)
 
 ---
 
@@ -48,7 +48,7 @@ YourVault/
 social-link-overhaul.css
 ```
 
-**Step 3** — Paste the full CSS from [The CSS Code](#the-css-code) section and save.
+**Step 3** — Paste the full CSS from [The CSS Code](https://github.com/sujit-waghmare/social-link-overhaul/blob/0541ced504ddff2d86e70e8f7e31116b50bf47bd/Social%20Links%20Overhaul.css) section and save.
 
 **Step 4** — In Obsidian: `Settings → Appearance → CSS Snippets`
 
@@ -154,7 +154,9 @@ Found a bug? Badge not rendering? Platform you want added?
 
 → [Open an issue](https://github.com/sujit-waghmare/social-link-overhaul/issues)
 
-Please include:
+**Want a platform added?** Just ask in the issues — if it has a public SVG logo, I can add it. Twitter, LinkedIn, Spotify, Reddit, Discord, or anything else you use.
+
+For bugs, please include:
 - Obsidian version
 - Theme name (or "default")
 - Screenshot of the broken render
@@ -164,12 +166,14 @@ Please include:
 
 ## License
 
-**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+**MIT License (Non-Commercial)**
+
+Copyright (c) 2025 Waghmare
 
 Free to use, share, and modify. **Cannot be sold or used commercially.**
 Must credit Waghmare with a link to this repo.
 
-→ [Full License Text](LICENSE) · [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+→ [Full License Text](LICENSE) · [MIT](https://opensource.org/licenses/MIT)
 
 ---
 
